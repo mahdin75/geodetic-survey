@@ -62,7 +62,7 @@ This code implements the solution to the problem using the **least squares metho
 
 The following GIF demonstrates the user interface (GUI) for running the code:
 
-![Geodetic Survey Nonlinear Parametric GUI](docs/Geodetic_Survey_Nonlinear_parametric.gif)
+![Geodetic Survey Nonlinear Parametric GUI](Geodetic_Survey_Nonlinear_parametric.gif)
 
 In the demo:
 
