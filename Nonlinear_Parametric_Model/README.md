@@ -50,7 +50,6 @@ This code implements the solution to the problem using the **least squares metho
 ### Code Details
 
 - **Language**: Python 2.7
-- **Libraries**: The code uses standard Python libraries for numerical calculations and data handling.
 
 ## How to Use
 
